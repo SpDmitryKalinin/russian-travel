@@ -1,0 +1,17 @@
+.place__paragraph{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 24px;
+}
+
+.place__paragraphs .place__paragraph:last-child{
+    margin-bottom: 0px;
+}
+
+@media screen and (max-width: 767px){
+
+    .place__paragraph{
+        font-size: 16px;
+        width:100%;
+    }
+}

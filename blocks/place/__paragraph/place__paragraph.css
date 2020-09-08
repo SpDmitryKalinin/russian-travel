@@ -4,7 +4,7 @@
     margin-bottom: 24px;
 }
 
-.place__paragraphs .place__paragraph:last-child{
+.place__paragraph:last-child{
     margin-bottom: 0px;
 }
 
